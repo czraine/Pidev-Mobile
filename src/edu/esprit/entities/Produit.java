@@ -7,7 +7,7 @@ package edu.esprit.entities;
 
 /**
  *
- * @author Hedi
+ * @author fatma
  */
 public class Produit {
     private int idProduit;
